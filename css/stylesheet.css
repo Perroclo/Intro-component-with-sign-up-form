@@ -260,11 +260,17 @@ display: block;
         text-align: start;
       }
 
-.formulario{
+    .formulario{
 
-    margin-right: 109px;
-}
+        margin-right: 109px;
+    }
 
+    body{
 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
 
 }
